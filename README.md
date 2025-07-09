@@ -8,5 +8,3 @@ Apliquei o princípio de encapsulamento, utilizando modificadores de acesso priv
 Por fim, implementei uma classe de teste com o método main, onde o usuário pode escolher entre criar um imóvel novo ou usado. Utilizei 'inputs' do usuário (pode ser por meio do Scanner ou JOptionPane) para permitir a digitação dos dados dos imóveis criados.
 
 Com esse programa, é possível criar e gerenciar diferentes tipos de imóveis, calcular preços totais (considerando adicional ou desconto) e exibir os dados dos imóveis de acordo com a escolha do usuário."
-
-Espero que essa descrição seja útil para você!
